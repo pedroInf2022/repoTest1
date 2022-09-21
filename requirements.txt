@@ -1,0 +1,8 @@
+Flask==2.1.0
+gunicorn==20.1.0
+pandas==1.4.3
+selenium == 4.3.0
+webdriver-manager==3.8.1
+chromedriver-binary==104.0.5112.29.0
+pandas-gbq==0.17.7
+google-cloud-storage==2.4.0
