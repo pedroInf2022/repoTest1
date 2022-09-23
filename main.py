@@ -23,7 +23,7 @@ logging.basicConfig(level=logging.INFO, filename='log.txt', filemode='w', format
 def blank():
     return 200
 
-# Runs default report
+# Runs default report 
 @app.route("/run")
 def run():
     print('STATUS: Report Run started')
