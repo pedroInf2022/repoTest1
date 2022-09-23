@@ -38,7 +38,7 @@ def run():
     print('STATUS: Modules loaded')
     logging.info('STATUS: Modules loaded')
     
-    # Cloud variables
+    # Cloud variables 
     project_id = "amer-a01-us-amer-dv"
     os.environ["GOOGLE_CLOUD_PROJECT"] = project_id
     credentials_table_id = 'amer_bqdset_medidata_br_us_dv.creds'
